@@ -1,6 +1,6 @@
 # Unity Cube Collector
 
-This is a simple Unity project where you control a rolling ball to collect red cubes.
+This is a very simple Unity project where you control a rolling ball to collect red cubes.
 Each cube disappears when collected, and your score increases. When all cubes are collected, the game displays a “Good job!” message.
 
 ## How to Play
